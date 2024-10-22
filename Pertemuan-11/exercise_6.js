@@ -1,9 +1,8 @@
 //Ubahlah syntax ES5 berikut ke dalam ES6
 
 // 1.
-const calculateAge = (birthYear) => {
-    return 2020 - birthYear;
-}
+const calculateAge = (birthYear) => 2019 - birthYear;
+
 
 const yearUntilRetirement = (person) => {
     const age = calculateAge(person.year);

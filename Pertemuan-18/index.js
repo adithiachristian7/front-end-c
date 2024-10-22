@@ -1,14 +1,3 @@
-// index.js
-import { helloWorld as hello, messages } from './helloworld.js';
-import {messages as pesan} from "./helloworld.js"
-import { ambilDataUser } from './fetchData.js';
-import { DataUserAsync } from './asyncAwaitData.js';
-import { DataUserAxios } from './axiosData.js';
+// introduction git
 
-
-
-
-pesan();
-ambilDataUser();
-DataUserAsync();
-DataUserAxios();
+console.log("Hello, Welcome to js");
